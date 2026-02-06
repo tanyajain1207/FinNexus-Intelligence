@@ -437,17 +437,6 @@ Chart generation endpoint.
 - **Insufficient data**: Try queries about data that exists in the annual report
 - **Chart errors**: Check backend logs for detailed error messages
 
-## Contributing 🤝
-
-Feel free to contribute to this project by:
-1. Forking the repository
-2. Creating a feature branch
-3. Submitting a pull request
-
-## License 📜
-
-This project is licensed under MIT License.
-
 ## Acknowledgments 🙏
 
 - Neo4j team for graph database capabilities
